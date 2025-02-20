@@ -1,9 +1,10 @@
+console.log("Olá Mundo")
 
-let nome = "Sara";
-let idade = 25;
+var A = "oi"
+let B = "tudo bem?"
+const C = 3
+const D = 4
 
-function saludar() {
-    console.log("Ola, " + nome + "!");
-    console.log("Tem " + idade + " anos");
-}
-saludar();
+console.log (A,B)
+console.log (A+B)
+console.log (C+D)
