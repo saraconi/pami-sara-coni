@@ -1,3 +1,4 @@
+
 // FUNÇÃO BASICA 
 
 function ExibirMsg (msg) {
