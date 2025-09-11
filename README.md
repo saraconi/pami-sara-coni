@@ -26,29 +26,26 @@ Para rodar este projeto em sua máquina local, siga os passos abaixo. Certifique
     ```bash
     cd pami-sara-coni/App\ 01
     ```
+    
 ### Parte 2 -
 
 1.  **Abra o terminal**
-  
 
+  
 2.  **Navegue ate a pasta do projeto**
     ```bash
     C:\Users\CAMARGO\Desktop\pami-sara-coni
     ```
+    
 3.  **Abra a pasta principal do prejeto**
     ```bash
     cd Stickermash
     ```
-
-4.  **Vamos rodar o script reset-project para remover o código-base:**
-    ```bash
-    npm run reset-project
-    ```
-
+    
 5.  **Execute o aplicativo:**
     Para iniciar o projeto em um emulador ou dispositivo conectado, use o comando:
     ```bash
-    npm start
+    npx espo start
     ```
 
     **Isso abrirá o Expo Developer Tools no navegador. Você pode escanear o QR Code com o aplicativo Expo Go no seu dispositivo móvel ou usar as teclas indicadas no terminal para abrir o emulador (Normalmente o "W").**
